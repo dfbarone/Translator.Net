@@ -1,0 +1,88 @@
+﻿{
+  "languages": [
+    {
+      "language": {
+        "name": "Arabic",
+        "code": "ar-SA"
+      }
+    },
+    {
+      "language": {
+        "name": "Chinese",
+        "code": "zh"
+      }
+    },
+    {
+      "language": {
+        "name": "German",
+        "code": "de"
+      }
+    },
+    {
+      "language": {
+        "name": "French",
+        "code": "fr"
+      }
+    },
+    {
+      "language": {
+        "name": "Hindi",
+        "code": "hi"
+      }
+    },
+    {
+      "language": {
+        "name": "Italian",
+        "code": "it"
+      }
+    },
+    {
+      "language": {
+        "name": "Indonesian",
+        "code": "id"
+      }
+    },
+    {
+      "language": {
+        "name": "Japanese",
+        "code": "ja"
+      }
+    },
+    {
+      "language": {
+        "name": "Korean",
+        "code": "ko"
+      }
+    },
+    {
+      "language": {
+        "name": "Portuguese",
+        "code": "pt"
+      }
+    },
+    {
+      "language": {
+        "name": "Russian",
+        "code": "ru"
+      }
+    },
+    {
+      "language": {
+        "name": "Swedish",
+        "code": "sv"
+      }
+    },
+    {
+      "language": {
+        "name": "Tagalog",
+        "code": "tl"
+      }
+    },
+    {
+      "language": {
+        "name": "Vietnamese",
+        "code": "vi"
+      }
+    }
+  ]
+}
